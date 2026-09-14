@@ -1,0 +1,9 @@
+{
+  "name": "Audiozy",
+  "description": "Multi-track audio editor with timeline, waveform clips, and project creation",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

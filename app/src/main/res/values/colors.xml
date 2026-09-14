@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="studio_black">#0A0A0E</color>
+    <color name="studio_surface">#12131A</color>
+    <color name="studio_card">#161822</color>
+    <color name="studio_border">#20212E</color>
+    <color name="studio_primary">#3B82F6</color>
+    <color name="studio_accent">#06B6D4</color>
+    <color name="studio_coral">#FB7185</color>
+    <color name="studio_yellow">#FBBF24</color>
+    <color name="studio_purple">#A855F7</color>
+    <color name="studio_green">#34D399</color>
+    <color name="studio_text_primary">#FFFFFF</color>
+    <color name="studio_text_secondary">#9CA3AF</color>
+</resources>

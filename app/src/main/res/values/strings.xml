@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Audiozy</string>
+    <string name="app_subtitle">Multi-track Studio</string>
+    <string name="new_project">New Project</string>
+    <string name="your_projects">Your Projects</string>
+    <string name="no_projects_title">No projects yet</string>
+    <string name="no_projects_desc">Create your first multi-track project with audio recording, custom tempos, and mixing clips.</string>
+    <string name="create_first_project">Create Project</string>
+    <string name="project_name_label">Project Name</string>
+    <string name="starting_source_label">Starting Source</string>
+    <string name="import_audio">Import Audio</string>
+    <string name="record_manually">Record Manually</string>
+    <string name="blank_project">Blank Project</string>
+    <string name="tempo_bpm">Tempo (BPM)</string>
+    <string name="time_signature">Time Signature</string>
+    <string name="audio_quality">Audio Quality</string>
+    <string name="sample_rate">Sample Rate</string>
+    <string name="bit_depth">Bit Depth</string>
+    <string name="split_clip">Split Clip</string>
+    <string name="duplicate_clip">Duplicate Clip</string>
+    <string name="delete_clip">Delete Clip</string>
+    <string name="fade_in_out">Fade In / Out</string>
+    <string name="mute_clip">Mute / Unmute</string>
+    <string name="add_track">Add Track</string>
+    <string name="export_wav">Export Audio (.wav)</string>
+    <string name="share_project">Share Project</string>
+</resources>
